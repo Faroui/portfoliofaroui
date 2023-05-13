@@ -1,0 +1,106 @@
+{
+
+    "Header.Item1": "À propos",
+    "Header.Item2": "Expérience",
+    "Header.Item3": "Projets",
+    "Header.Item4": "Contact",
+    "Header.cvBtn": "Curriculum Vitae",
+    "Header.cvName": "Farouiismail_Fr.pdf",
+
+    "Banner.Pretitle": "Bonjour! Je m'appelle",
+    "Banner.Description": " je suis un étudiant en cycle d'ingénieur en génie du logiciel et systèmes informatiques distribués\nà l'Ecole Normale Supérieure d'Enseignement Technique de Mohammedia.Je suis un développeur backend <span class='underline'>Spring Boot</span> intéressé\ntous les nouveauté au domaine de l'intelligence artificielle.J'ai une solide base en mathématique pour comprendre les algorithmes\ncomplexes et les problèmes analytiques.",
+    "Banner.ActionBtn": "Contacter moi",
+
+    "AboutMe.Title": "À propos de moi",
+    "AboutMe.Paragraphs": [
+        "Je suis actuellement inscrit dans un programme d'ingénierie du logiciel et des systèmes informatiques distribués à l'École Normale Supérieure d'Enseignement\n Technique de Mohammedia",
+        "Ma spécialisation en tant que développeur backend avec Spring Boot est soutenue par une passion pour les technologies émergentes dans \nle domaine de l'intelligence artificielle. Je dispose également d'une formation solide en mathématiques, ce qui me permet de résoudre des problèmes analytiques\n complexes et de développer des algorithmes sophistiqués",
+        "Si vous souhaitez discuter de mes compétences, de mon expérience ou explorer une opportunité de collaboration,\n je serais ravi d'échanger avec vous. N'hésitez pas à me contacter pour en savoir plus sur mon profil professionnel.\n"
+    ],
+    "Experience.Title": "Expérience ",
+    "Experience.Jobs": [
+      {
+        "Tab": "Participant",
+        "Title": "IT-Holic Contest",
+        "Date": "Février 2023 - Février 2023 (deux jours)",
+        "Description": [
+          "J'ai eu l'opportunité de participer à un événement de programmation très compétitif organisé par l'Ensias, où mon équipe N73 a démontré une performance exceptionnelle.",
+          "Sur les 130 équipes participantes, nous avons obtenu le 20ème rang, ce qui a été une réussite remarquable.",
+          "Cette expérience m'a non seulement donné un sentiment de satisfaction, mais a également renforcé ma confiance et ma motivation à poursuivre ma passion pour la programmation.",
+          "Je suis reconnaissant pour la plateforme offerte par l'Ensias, qui nous a permis de montrer nos compétences et de rivaliser avec certains des meilleurs programmeurs dans le domaine."
+        ]
+
+      },
+      {
+        "Tab": "Participant",
+        "Title": "Moroccan National Programming Contest 2022",
+        "Date": "Octobre 2022 - Octobre 2022 (deux jours)",
+        "Description": [
+          "J'ai participé à la compétition nationale marocaine de programmation avec mon équipe appelée « Builders » et nous avons obtenu un classement de 9ème sur 90 équipes.",
+          "C'était une expérience difficile mais gratifiante qui nous a beaucoup appris sur la résolution de problèmes et le travail d'équipe.",
+          "Je suis fier de ce que nous avons accompli et j'ai hâte de participer à des compétitions similaires à l'avenir."
+        ]
+      },
+      {
+        "Tab": "Stagiaire",
+        "Title": "FrontEnd developer",
+        "Date": "Juillet 2022  - Aout 2022",
+        "Description": [
+          "J'ai développé la partie frontend d'un site e-commerce en utilisant HTML, CSS et JavaScript pour créer une boutique en ligne attrayante visuellement et conviviale pour l'utilisateur",
+          "J'ai travaillé en étroite collaboration avec une équipe de développeurs frontend pour acquérir une meilleure compréhension du monde professionnel du développement frontend.",
+          "J'ai développé une solide base en JavaScript et appris comment l'utiliser pour ajouter de l'interactivité et de la fonctionnalité aux sites web."
+        ]
+      }
+    ],
+    "FeatureProjects.Title": "Mes projets",
+    "FeatureProjects.Label": "Projet mis en avant",
+    "FeatureProjects.Projects": [{
+            "Title": "Joue de guerre",
+            "Description": "Ce projet concerne la création d’un jeu vidéo basé sur les règles d'un jeu vidéo “Jeu de l’espace”.\nL'objectif de ce jeu est de réaliser une interface qui contient un joueur principal qui va défendre\ncontre les ennemis (extraterrestres) qui apportent des bombes à la Terre",
+            "imgs": [
+                "assets/images/joues/joueguerre1.png",
+                "assets/images/joues/joueguerre2.png",
+                "assets/images/joues/joueguerre3.png",
+                "assets/images/joues/joueguerre4.png"
+            ],
+            "Technologies": ["JavaFx", "Java"]
+        },
+        {
+            "Title": "Gestion de Patient",
+            "Description": "L'application CRUD (Create, Read, Update, Delete) de gestion de patients développée en utilisant Spring Boot et Thymeleaf est une application web qui permet aux utilisateurs de gérer les données des patients dans une base de données.\n\nElle permet de créer de nouveaux patients, de visualiser les informations existantes, de mettre à jour les données existantes et de supprimer les patients qui ne sont plus nécessaires.\n\nL'application est basée sur une architecture MVC (Model-View-Controller) et utilise Spring Boot pour la partie backend, tandis que Thymeleaf est utilisé pour le frontend.",
+            "imgs": [
+                "assets/images/patients/patient1.png",
+                "assets/images/patients/patient2.png"
+            ],
+            "Technologies": ["Java", "Spring Boot", "Tymleaf", "Bootstrap"]
+        }
+    ],
+
+    "OtherProjects.Title": "Mes Projets",
+    "OtherProjects.Projects": [{
+            "Title": "E-banking",
+            "Description": "L'application est construite en utilisant Spring Boot et Angular, ce qui permet une intégration fluide entre les composants backend et frontend. Les utilisateurs peuvent s'inscrire et se connecter à leurs comptes, consulter leur solde, transférer des fonds, payer des factures et effectuer d'autres transactions en toute sécurité.",
+            "ghLink": "https://github.com/Faroui",
+            "Technologies": ["Angular", "Spring Boot", "API", "Bootstrap","Java"]
+        },
+        {
+            "Title": "Blog",
+            "Description": "L'application de blog est un outil simple mais puissant conçu pour partager des actualités, des histoires et des activités quotidiennes avec le monde. Construite avec Node.js et l'ORM Prisma, les utilisateurs peuvent créer des profils, publier des articles et interagir avec les autres via des commentaires.",
+            "ghLink": "https://github.com/Faroui/projet-web",
+            "Technologies": ["NodeJs", "Prisma", "CSS", "HTML","EXPRESS","JavaScript"]
+        },
+        {
+            "Title": "Chat",
+            "Description": "Cette application de chat fournit une façon conviviale et efficace de communiquer avec les autres. Construite en utilisant la technologie Java Stream, elle permet aux utilisateurs d'envoyer des messages et des fichiers en temps réel sur internet.",
+            "ghLink": "https://github.com/Faroui/NetworkingProgramming",
+            "Technologies": ["Java"]
+        }
+    ],
+
+    "Contact.Pretitle": "Qu'est-ce qui vient ensuite?",
+    "Contact.Title": "Contacter moi",
+    "Contact.Content": "Je serai ravi de recevoir votre contact si vous souhaitez discuter de nouvelles opportunités. Écrivez-moi et je vous répondrai dès que je verrai votre message.",
+    "Contact.Btn": "Dire Bonjour"
+
+
+}

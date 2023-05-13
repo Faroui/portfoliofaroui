@@ -1,0 +1,108 @@
+{
+
+    "Header.Item1" : "About me",
+    "Header.Item2" : "Experience",
+    "Header.Item3" : "Projects",
+    "Header.Item4" : "Contact",
+    "Header.cvBtn" : "Resume",
+    "Header.cvName": "Farouiismail_En.pdf",
+
+    "Banner.Pretitle": "Hello! My name is",
+    "Banner.Description": "I am a software engineering student and distributed computer systems at the Ecole Normale Supérieure d'Enseignement Technique de Mohammedia.I am a <span class='underline'>Spring Boot</span> backend developer interested in all the latest developments in the field of software engineering and artificial intelligence. have a strong foundation in mathematics to understand complex algorithms and analytical problems.",
+    "Banner.ActionBtn": "Get in touch",
+
+    "AboutMe.Title": "About me",
+    "AboutMe.Paragraphs": [
+        "I am currently enrolled in a software engineering and distributed computer systems engineering program at the Ecole Normale Supérieure d'Enseignement Technique de Mohammedia.",
+        "My specialization as a Spring Boot backend developer is driven by a passion for emerging technologies in the field of artificial intelligence. I also have a strong background in mathematics, which enables me to solve complex analytical problems and develop sophisticated algorithms.",
+        "If you would like to discuss my skills, experience, or explore a potential opportunity for collaboration, I would be happy to connect with you. Please do not hesitate to contact me to learn more about my professional profile."
+    ],
+
+
+    "Experience.Title": "Experience",
+    "Experience.Jobs": [{
+            "Tab": "Contestant",
+            "Title": "IT-Holic Contest",
+            "Date": "February 2023 - February 2023 (two days)",
+            "Description": [
+              "I had the opportunity to participate in a highly competitive programming event organized by Ensias, where my team N73 demonstrated exceptional performance",
+              "Out of 130 participating teams, we secured the 20th rank, which was a remarkable achievement.",
+              "This experience not only gave me a sense of satisfaction but also boosted my confidence and motivation to pursue my passion for programming",
+              "I am grateful for the platform provided by Ensias, which allowed us to showcase our skills and compete with some of the best programmers in the field."
+            ]
+        },
+        {
+            "Tab": "Contestant",
+            "Title": "Moroccan National Programming Contest 2022",
+            "Date": "October 2022 - October 2022 (two days)",
+            "Description": [
+              "I participated in the Moroccan National Competitive Programming competition with my team called \"Builders\" and achieved a ranking of 9th out of 90 teams.",
+              "It was a challenging but rewarding experience that taught us a lot about problem-solving and teamwork.",
+              "I am proud of what we accomplished and look forward to participating in similar competitions in the future."
+            ]
+        },
+        {
+            "Tab": "Internship",
+            "Title": "FrontEnd developer",
+            "Date": "July 2022 - August 2022",
+            "Description": [
+              "Developed the frontend of an e-commerce website using HTML, CSS, and JavaScript to create a visually appealing and user-friendly online store.",
+              "Worked closely with a team of frontend developers to gain insight into the professional world of frontend development.",
+              "Developed a solid foundation in JavaScript and learned how to use it to add interactivity and functionality to websites."
+            ]
+        }
+    ],
+
+    "FeatureProjects.Title": "My projects",
+    "FeatureProjects.Label": "Featured Project",
+    "FeatureProjects.Projects": [{
+            "Title": "War Game",
+            "Description": "This project concerns the creation of a video game based on the rules of a video game called \"Space Game\". The objective of this game is to create an interface that contains a main player who will defend against enemies (aliens) who are bringing bombs to Earth.",
+            "imgs": [
+              "assets/images/joues/joueguerre1.png",
+              "assets/images/joues/joueguerre2.png",
+              "assets/images/joues/joueguerre3.png",
+              "assets/images/joues/joueguerre4.png"
+      ],
+            "Technologies": ["JavaFx", "Java"]
+    },
+      {
+        "Title": "Patient management",
+        "Description": "The CRUD (Create, Read, Update, Delete) patient management application developed using Spring Boot and Thymeleaf is a web application that allows users to manage patient data in a database.\n\nIt enables users to create new patients, view existing information, update existing data, and delete patients who are no longer needed.\n\nThe application is based on an MVC (Model-View-Controller) architecture and uses Spring Boot for the backend, while Thymeleaf is used for the frontend.",
+        "imgs": [
+          "assets/images/patients/patient1.png",
+          "assets/images/patients/patient2.png"
+        ],
+        "Technologies": ["Java", "Spring Boot", "Tymleaf", "Bootstrap"]
+      }
+    ],
+
+
+
+  "OtherProjects.Title": "My Projects",
+  "OtherProjects.Projects": [{
+    "Title": "E-banking",
+    "Description": "The application is built using Spring Boot and Angular, which enables seamless integration between the backend and frontend components. Users can register and log in to their accounts, view their account balances, transfer funds, pay bills, and perform other transactions securely. ",
+    "ghLink": "https://github.com/Faroui",
+    "Technologies": ["Angular", "Spring Boot", "API", "Bootstrap","Java"]
+  },
+    {
+      "Title": "Blog",
+      "Description": "The blog application is a simple yet powerful tool designed to share news, stories, and daily activities with the world. Built using Node.js and Prisma ORM. Users can create profiles, post articles, and interact with others through comments and likes.",
+      "ghLink": "https://github.com/Faroui/projet-web",
+      "Technologies": ["NodeJs", "Prisma", "CSS", "HTML","EXPRESS","JavaScript"]
+    },
+    {
+      "Title": "Chat",
+      "Description": "This chat application provides a user-friendly and efficient way to communicate with others. Built using Java Stream technology, it allows users to send messages and files in real-time over the internet",
+      "ghLink": "https://github.com/Faroui/NetworkingProgramming",
+      "Technologies": ["Java"]
+    }
+  ],
+    "Contact.Pretitle": "What’s Next",
+    "Contact.Title": "Get in touch!",
+    "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
+    "Contact.Btn": "Say Hello"
+
+
+}
